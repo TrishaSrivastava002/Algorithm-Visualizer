@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an **Algorithm Visualizer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/trisha-srivastava-1227461bb/</h3>
 <p align="left">
 </p>
 
